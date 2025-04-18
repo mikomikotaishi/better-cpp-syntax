@@ -24,6 +24,7 @@ grammar = Grammar.new(
     fileTypes: [
 		"cc",
 		"cpp",
+        "cppm",
 		"cp",
 		"cxx",
 		"c++",
