@@ -32,7 +32,9 @@ grammar = Grammar.new(
 		"h",
 		"hh",
 		"hpp",
-		"h++"
+		"h++",
+        "ixx",
+        "mxx"
     ],
     version: "",
     information_for_contributors: [
